@@ -1,3 +1,0 @@
-# Multiply
-
-Multiply two numbers.
