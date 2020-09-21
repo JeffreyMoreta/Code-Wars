@@ -1,3 +1,3 @@
-const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
-  return fuelLeft * mpg >= distanceToPump
-};
+function opposite(number) {
+  return number * -1
+}
